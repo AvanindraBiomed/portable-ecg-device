@@ -12,12 +12,6 @@ A fully functional portable ECG (Electrocardiogram) device built from scratch us
 
 ---
 
-## 📸 Demo
-
-> *(Add your QRS waveform screenshot here)*
-
----
-
 ## ⚙️ Hardware Used
 
 | Component | Purpose |
@@ -31,8 +25,6 @@ A fully functional portable ECG (Electrocardiogram) device built from scratch us
 | Mini Breadboard | Prototype assembly |
 | Jumper Wires (M-M) | Connections |
 | USB-A to Mini-USB Cable | Power + data to laptop |
-
-**Total build cost: ~₹1,100 – ₹1,450**
 
 ---
 
@@ -75,7 +67,7 @@ portable-ecg-device/
 │   └── wiring_diagram.md         # Full wiring reference
 │
 ├── images/
-│   └── (add your waveform screenshots here)
+│   └──Project Related Photos (PNG)
 │
 ├── README.md
 └── LICENSE
