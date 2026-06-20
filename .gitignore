@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Arduino build artifacts
+*.elf
+*.hex
+*.map
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Images (add your own screenshots — don't commit large raw files)
+images/*.mov
+images/*.mp4
