@@ -96,11 +96,7 @@ cd portable-ecg-device
 - Attach electrodes to body
 - Observe waveform
 
-### 4. Run Python display app (optional)
-```bash
-pip install pyserial matplotlib numpy scipy
-python python/ecg_monitor.py
-```
+
 
 ---
 
